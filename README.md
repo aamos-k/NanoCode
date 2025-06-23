@@ -9,7 +9,7 @@
 ### and only having 1 byte used for the instruction it's self and up to 16 general-purpose 8 bit registers
 ### other registers include the accumulator (8 bits), stack pointer (4 bits) + flags (4 bits) and 
 ### program counter (16 bits)
-### flags include negative, zero, carry,
+### flags include negative, zero, carry, and borrow
 
 ## Instructions
 ## integer math 
